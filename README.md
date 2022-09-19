@@ -12,3 +12,9 @@ A dynamic array. This implementation uses smart memory allocation.
 
 an Associative array. Basic implementation with a simple hash function.
 
+### Bloom Filter
+
+Bloom filters are probabilistic space-efficient data structures. 
+They are very similar to hash tables; they are used exclusively membership existence in a set. 
+However, they have a very powerful property which allows to make trade-off between space and false-positive rate 
+when it comes to membership existence. 
